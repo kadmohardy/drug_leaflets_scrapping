@@ -346,13 +346,6 @@ def main():
 
     print("List processing complete.")
 
-    # for item in arr:
-    #     try:
-    #         data = process_drug_leaflet(item)
-    #         update_register_item(item, data)
-    #     except Exception:
-    #         print("Error when tried to update")
-
     return 0
 
 
